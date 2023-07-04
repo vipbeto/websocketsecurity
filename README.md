@@ -2,7 +2,7 @@
 
 # @INTEL_NET
 
-PROJETO EM ANDAMENTO...
+so para arquitetura aarch64
 
 
 # 👇👽👍
@@ -14,7 +14,7 @@ Só joga na máquina e deixar instalar
 
 • instala recursos e o script
 
-
+,,,
 apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/vipbeto/websocketsecurity/main/ssh-plus)
-
+,,,
 # PRO
